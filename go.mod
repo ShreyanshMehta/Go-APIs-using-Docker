@@ -1,4 +1,4 @@
-module main
+module www.github.com/ShreyanshMehta/Go-APIs-using-Docker
 
 go 1.17
 
